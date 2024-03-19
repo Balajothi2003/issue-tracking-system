@@ -1,0 +1,40 @@
+.conforms
+{
+    border:0px solid rgb(121, 165, 230);
+    height:500px;
+    width:800px;
+    margin-left:350px;
+   
+    box-shadow:0 24px 18px 0 rgba(20, 228, 113, 0.2);
+    background-position: relative;
+    background-repeat: no-repeat;
+    background-size: 100% 100%;
+    
+}
+.cinps
+{
+    border:0px solid rgb(159, 134, 228);
+    box-shadow:0 2px 4px 0 rgba(14, 218, 65, 0.2);
+    background-color: rgba(129, 245, 197, 0.948);
+    width:250px;
+    height:45px;
+    margin-right:450px;
+}
+.cbut
+{
+    border:0px solid white;
+    background-color:#8dc6ff;
+    box-shadow:white;
+     width:90px;
+      height:30px;
+      font-size: 15px;
+      margin-right:450px;
+}
+.conpic{
+    background-image: url('https://wallpapercave.com/wp/wp7442875.jpg');
+    background-position: fixed;
+    background-repeat: no-repeat;
+    background-size: 100% 100%;
+    width:100%;
+    height:800px;
+}

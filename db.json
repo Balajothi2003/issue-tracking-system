@@ -1,0 +1,79 @@
+{
+  "user": [
+    {
+      "username": "Jo",
+      "email": "jo@gm.com",
+      "password": "123",
+      "id": "9a3b"
+    },
+    {
+      "id": "c56a",
+      "username": "jo",
+      "email": "jothi@gmail.com",
+      "password": "123"
+    },
+    {
+      "id": "ffef",
+      "username": "kavi",
+      "email": "kavi@gmail.com",
+      "password": "1234"
+    },
+    {
+      "id": "2601",
+      "username": "kavaa",
+      "email": "jo@gmail.com",
+      "password": "1313"
+    }
+  ],
+  "task": [
+    {
+      "name": "ass",
+      "emailid": "a@gmail.com",
+      "rollno": "21",
+      "correctionno": "1",
+      "id": "4bcd"
+    },
+    {
+      "id": "7e8a",
+      "name": "jo",
+      "emailid": "jo@gm.com",
+      "rollno": "12",
+      "correctionno": "2"
+    },
+    {
+      "id": "c720",
+      "name": "jo",
+      "emailid": "jo@gmail.com",
+      "rollno": "3",
+      "correctionno": "45"
+    },
+    {
+      "id": "970d",
+      "name": "uma",
+      "emailid": "kavi@gmail.com",
+      "rollno": "20",
+      "correctionno": "5"
+    },
+    {
+      "id": "18ec",
+      "name": "kavi",
+      "emailid": "kavi@gm.com",
+      "rollno": "25",
+      "correctionno": "2"
+    },
+    {
+      "id": "7adf",
+      "name": "kavi",
+      "emailid": "kavi@gm.com",
+      "rollno": "25",
+      "correctionno": "2"
+    },
+    {
+      "id": "db5b",
+      "name": "jo",
+      "emailid": "jo@gm.com",
+      "rollno": "29",
+      "correctionno": "2"
+    }
+  ]
+}

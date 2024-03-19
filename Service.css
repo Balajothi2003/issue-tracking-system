@@ -1,0 +1,25 @@
+.flex-container{
+    border:0px solid black;
+    display:flex;
+    justify-content: space-evenly;
+    }
+    .flex-items{
+        border:2px solid white;
+        text-align: center;
+        width:350px;         
+        box-shadow:0 4px 8px rgba(0,0,0,0.2);
+        background-color: white;
+    }
+    .upic
+    {
+        background-image: url('https://png.pngtree.com/background/20210709/original/pngtree-business-background-banner-business-website-picture-image_306168.jpg');
+        background-position: fixed;
+        background-repeat: no-repeat;
+        background-size: 100% 100%;
+        width:1280px;
+        height:550px;
+    }
+    .user
+    {
+        color:whitesmoke
+    }
